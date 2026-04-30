@@ -8,60 +8,97 @@ project:
   # doi: 10.5281/zenodo.XXXXXXX
   # date: YYYY-MM-DD
   authors:
-  - name: Doe, J.
-    orcid: 0000-0000-0000-0001
+  - name: Yilmaz, F.
+    orcid: 0000-0001-7055-2204
     affiliations:
-    - Department of Geosciences and Natural Resource Management, University of Copenhagen, Denmark
+    - Donders Institute for Brain, Cognition and Behaviour, Radboud University, Nijmegen, the Netherlands
     roles:
     - Conceptualization
+    - Data curation
     - Formal analysis
     - Investigation
     - Methodology
     - Software
+    - Validation
     - Visualization
     - Writing - original draft
     - Writing - review & editing
-  - name: Sharma, A.J.
-    orcid: 0000-0000-0000-0002
+  - name: Safronov, N.
+    orcid: 0000-0002-4139-0151
     affiliations:
-    - Department of Earth Sciences, Indian Institute of Technology Bombay, Mumbai, India
+    - Department of Engineering, Pontifical Catholic University of Peru, Lima, Peru
+    - Neuromatch Academy, Neuromatch, Inc.
     roles:
+    - Conceptualization
+    - Data curation
     - Formal analysis
     - Investigation
+    - Methodology
+    - Software
+    - Validation
     - Writing - original draft
     - Writing - review & editing
-  - name: Tanaka, S.
+  - name: Sumich, L.
+    orcid: 0009-0008-9449-5417
     affiliations:
-    - College of Urban and Environmental Sciences, Peking University, Beijing, China
+    - Neuromatch Academy, Neuromatch, Inc.
     roles:
+    - Conceptualization
+    - Data curation
     - Formal analysis
+    - Investigation
+    - Methodology
+    - Software
+    - Validation
     - Writing - original draft
     - Writing - review & editing
-  - name: Vera Gutierrez, C.
+  - name: Tian, A.
+    orcid: 0000-0001-7120-8413
     affiliations:
-    - Institute of Geology, Mining, and Metallurgy, Universidad Nacional Mayor de San Marcos, Lima, Peru
+    - Institute for Cognitive Studies Saint Petersburg State University, Saint Petersburg, Russia
     roles:
+    - Conceptualization
+    - Data curation
     - Formal analysis
+    - Investigation
+    - Methodology
+    - Software
+    - Validation
     - Writing - original draft
     - Writing - review & editing
-  - name: Ndlovu, T.
+  - name: Neudorf, J.
+    orcid: 0000-0001-9227-1358
     affiliations:
-    - Marine Research and Development, Oceanic Dynamics Ltd., Cape Town, South Africa
+    - Centre for Social Sciences, Athabasca University, Athabasca, Canada
+    - Department of Psychology, University of Alberta, Edmonton, Canada
+    - Neuroscience and Mental Health Institute, University of Alberta, Edmonton, Canada
+    - Institute for Neuroscience and Neurotechnology, Simon Fraser University, Burnaby, Canada
     roles:
+    - Conceptualization
+    - Data curation
     - Formal analysis
+    - Investigation
+    - Methodology
+    - Project administration
+    - Software
+    - Supervision
+    - Validation
+    - Visualization
+    - Writing - original draft
     - Writing - review & editing
 
   toc:
   - file: index.md
 
   id: isp-micropublication-template
-  title: This is the title of our awesome micropublication
+  title: Domain-general and stimulus-specific functional connectivity networks supporting working memory for faces, body parts, tools, and places
   keywords:
-  - keyword1
-  - keyword2
-  - keyword3
-  - keyword4
-  github: https://github.com/impact-scholars/isp-micropublication-template
+  - Working memory
+  - fMRI
+  - Functional Connectivity
+  - Network Neuroscience
+  - Network Based Statistic
+  github: https://github.com/neudorf/HCP_WM
   bibliography:
   - bib.bib
   # downloads:
