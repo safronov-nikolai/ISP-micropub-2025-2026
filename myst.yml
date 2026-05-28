@@ -89,6 +89,7 @@ project:
 
   toc:
   - file: index.md
+  - file: supplementary.md
 
   id: isp-micropublication-template
   title: Domain-general and stimulus-specific functional connectivity networks supporting working memory for faces, body parts, tools, and places
@@ -104,3 +105,12 @@ project:
   # downloads:
   # - file: supplementary-material.zip
   #   title: Supplementary Material
+
+  exports:
+  - format: typst
+    id: typst-pdf
+    articles:
+    - file: index.md
+      title: null
+    - file: supplementary.md
+      title: null
