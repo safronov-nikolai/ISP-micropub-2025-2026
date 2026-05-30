@@ -4849,12 +4849,5 @@
   - thalamus_right
   - Subcortical
   - R
-
-* - brainStem
-  - brainStem
-  - brainStem
-  - Subcortical
-  - midline
-
 ```
 
